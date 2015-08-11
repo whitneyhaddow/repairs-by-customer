@@ -1,0 +1,11 @@
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\bin\Debug\RepairsByCustomer-Lab3Alt.exe.config
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\bin\Debug\AppRepairs.mdf
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\bin\Debug\AppRepairs_log.ldf
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\bin\Debug\RepairsByCustomer-Lab3Alt.exe
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\bin\Debug\RepairsByCustomer-Lab3Alt.pdb
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer-Lab3Alt.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer_Lab3Alt.Form1.resources
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer_Lab3Alt.Properties.Resources.resources
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer-Lab3Alt.csproj.GenerateResource.Cache
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer-Lab3Alt.exe
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\RepairsByCustomer-Lab3Alt\RepairsByCustomer-Lab3Alt\obj\Debug\RepairsByCustomer-Lab3Alt.pdb
